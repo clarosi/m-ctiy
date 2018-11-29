@@ -1,0 +1,1 @@
+export { setUserAuthData } from './auth';
